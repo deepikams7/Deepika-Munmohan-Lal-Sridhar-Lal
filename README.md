@@ -1,4 +1,4 @@
-Deepika Lal
+Deepika Munmohan Lal Sridhar Lal
 Java Backend Developer | Java | Spring Boot | Microservices | AWS | Terraform
 
 About Me
